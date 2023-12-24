@@ -52,3 +52,21 @@
 
 }
 
+.service_style_three {
+	height: 370px !important;
+}
+
+.service_style_three_title h4 {
+    
+    color: #76b82a !important;
+}
+
+.active .order_style2_now a {
+    background: #76b82a !important;
+   
+}
+
+.pricing_head_style2 {
+    background: #76b82a !important;
+}
+
