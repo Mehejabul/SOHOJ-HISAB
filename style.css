@@ -2202,15 +2202,19 @@ a.em-active-button:hover {
 	color: #fff;
 }
 
-/* Flipbox Hover Css */
-.techno_flipbox:hover .techno_flipbox_font {
+/* Flipbox Hover Css    */
+
+
+/* comment_out */
+
+/* .techno_flipbox:hover .techno_flipbox_font {
 	-webkit-transform: rotateX(-180deg);
 	transform: rotateX(-180deg);
 }
 .techno_flipbox:hover .techno_flipbox_back {
 	-webkit-transform: rotateX(0deg);
 	transform: rotateX(0deg);
-}
+} */
 .techno_flipbox .techno_flipbox_back .flipbox_button a:hover {
 	color: #fff;
 	border-color: #0c5adb;
