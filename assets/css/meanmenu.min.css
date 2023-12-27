@@ -138,4 +138,9 @@ a.meanmenu-reveal{display:none}
 	font-weight: 800;
 	left: 10px;
 	top: 18px;
+  position: absolute;
+}
+
+.mean-container .mean-bar {
+    background: #213b87 !important;
 }

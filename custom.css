@@ -70,3 +70,25 @@
     background: #76b82a !important;
 }
 
+.remark{
+	color: #213b87;
+	font-weight: 600;
+	margin-right: 10px;
+}
+
+.pricing_style_four_body ul li i {
+    color: #76b82A;
+    margin-right: 10px;
+}
+
+.pricing_style_four_button a {
+    background: #76b82a;
+}
+
+.pricing_style_four_button a:before {
+    background: #213b87;
+}
+
+/* checkmark css */
+
+/* checkmark css end */
